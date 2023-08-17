@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊Hey all  subhashree Nath here.<br>🔭 I’m currently working on java development.<br>👯 I’m looking to collaborate on upcoming new projects.<br>🌱 I’m currently learning Web development, python.<br>⚡ Fun fact I feel very  elated to dance. 
+😊Hey all  Subhashree Nath here.<br>🔭 I’m currently working on java development.<br>👯 I’m looking to collaborate on upcoming new projects.<br>🌱 I’m currently learning Web development, python.<br>⚡ Fun fact I feel very  elated to dance. 
 
 
 ## 🌐 Socials:
